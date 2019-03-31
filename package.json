@@ -1,0 +1,29 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "Club management system",
+  "main": "dist/index.html",
+  "style": "dist/css/tennis.min.css",
+  "sass": "src/sass/index.sass",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/php2020/tennis.git"
+  },
+  "author": "lin.yan",
+  "license": "MIT",
+  "devDependencies": {
+    "@fullcalendar/core": "^4.0.1",
+    "@fullcalendar/daygrid": "^4.0.1",
+    "@fullcalendar/interaction": "^4.0.1",
+    "@fullcalendar/list": "^4.0.1",
+    "@fullcalendar/timegrid": "^4.0.1",
+    "bulma": "^0.7.4",
+    "bulma-calendar": "^6.0.4",
+    "bulma-extensions": "^6.2.4",
+    "chart.js": "^2.8.0",
+    "gulp-cli": "^2.1.0"
+  }
+}
